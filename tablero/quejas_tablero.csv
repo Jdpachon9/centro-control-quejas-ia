@@ -1,0 +1,301 @@
+﻿id,fecha_recibo,semana,mes,canal,producto,motivo,ruta,area,plazo_dias,fecha_limite,fecha_respuesta,estado,respondida,abierta,a_tiempo,vencida,por_vencer,dias_habiles_respuesta,dias_habiles_restantes,confianza,nivel_revision,intento_manipulacion
+Q0001,2026-09-01,2026-08-31,2026-09,Página web,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-09-22,2026-09-03,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0002,2026-09-01,2026-08-31,2026-09,Oficina,Cuenta corriente,Fallas en canales digitales,Exprés,Canales,5,2026-09-08,2026-09-04,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0003,2026-09-01,2026-08-31,2026-09,Superfinanciera,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-08,2026-09-04,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0004,2026-09-01,2026-08-31,2026-09,Superfinanciera,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-09-22,2026-09-17,Respondida a tiempo,1,0,1,0,0,12,,alta,Revisión rápida,0
+Q0005,2026-09-02,2026-08-31,2026-09,Página web,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-09-09,2026-09-03,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0006,2026-09-02,2026-08-31,2026-09,Página web,Tarjeta de crédito,Indebida atención,Normal,Servicio al cliente,15,2026-09-23,2026-09-04,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0007,2026-09-02,2026-08-31,2026-09,Página web,Tarjeta de crédito,Indebida atención,Normal,Servicio al cliente,15,2026-09-23,2026-09-07,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0008,2026-09-02,2026-08-31,2026-09,Página web,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,5,2026-09-09,2026-09-10,Respondida tarde,1,0,0,1,0,6,,alta,Revisión rápida,0
+Q0009,2026-09-02,2026-08-31,2026-09,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-09-23,2026-09-09,Respondida a tiempo,1,0,1,0,0,5,,alta,Revisión rápida,0
+Q0010,2026-09-03,2026-08-31,2026-09,App,Cuenta corriente,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-09-10,2026-09-08,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0011,2026-09-03,2026-08-31,2026-09,Superfinanciera,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-09-24,2026-09-11,Respondida a tiempo,1,0,1,0,0,6,,alta,Revisión rápida,0
+Q0012,2026-09-03,2026-08-31,2026-09,Superfinanciera,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-09-24,2026-09-09,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0013,2026-09-03,2026-08-31,2026-09,Oficina,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,5,2026-09-10,2026-09-11,Respondida tarde,1,0,0,1,0,6,,alta,Revisión rápida,0
+Q0014,2026-09-03,2026-08-31,2026-09,Oficina,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,5,2026-09-10,2026-09-09,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0015,2026-09-03,2026-08-31,2026-09,Oficina,Tarjeta de crédito,Fallas en canales digitales,Normal,Canales,15,2026-09-24,2026-09-09,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0016,2026-09-04,2026-08-31,2026-09,App,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-11,2026-09-07,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0017,2026-09-04,2026-08-31,2026-09,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-09-25,2026-09-14,Respondida a tiempo,1,0,1,0,0,6,,alta,Revisión rápida,0
+Q0018,2026-09-04,2026-08-31,2026-09,Página web,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-09-25,2026-09-15,Respondida a tiempo,1,0,1,0,0,7,,alta,Revisión rápida,0
+Q0019,2026-09-04,2026-08-31,2026-09,App,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-09-11,2026-09-10,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0020,2026-09-04,2026-08-31,2026-09,Página web,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-09-25,2026-09-10,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0021,2026-09-04,2026-08-31,2026-09,Página web,Cuenta corriente,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-09-11,2026-09-07,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0022,2026-09-04,2026-08-31,2026-09,Página web,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-09-25,2026-09-10,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0023,2026-09-04,2026-08-31,2026-09,Página web,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,5,2026-09-11,2026-09-10,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0024,2026-09-05,2026-08-31,2026-09,Oficina,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-09-25,2026-09-15,Respondida a tiempo,1,0,1,0,0,7,,alta,Revisión rápida,0
+Q0025,2026-09-06,2026-08-31,2026-09,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-09-25,2026-09-17,Respondida a tiempo,1,0,1,0,0,9,,alta,Revisión rápida,0
+Q0026,2026-09-07,2026-09-07,2026-09,App,Tarjeta de crédito,Revisión o liquidación del crédito,Exprés,Cartera,5,2026-09-14,2026-09-09,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0027,2026-09-07,2026-09-07,2026-09,App,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-14,2026-09-25,Respondida tarde,1,0,0,1,0,14,,alta,Revisión rápida,0
+Q0028,2026-09-07,2026-09-07,2026-09,Correo electrónico,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-14,2026-09-09,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0029,2026-09-07,2026-09-07,2026-09,Superfinanciera,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-09-28,2026-09-21,Respondida a tiempo,1,0,1,0,0,10,,alta,Revisión rápida,0
+Q0030,2026-09-07,2026-09-07,2026-09,Correo electrónico,Tarjeta de crédito,Cobranza,Exprés,Cartera,5,2026-09-14,2026-09-09,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0031,2026-09-07,2026-09-07,2026-09,Superfinanciera,Crédito de consumo,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-09-28,2026-09-10,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0032,2026-09-08,2026-09-07,2026-09,Oficina,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-09-29,2026-09-14,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0033,2026-09-08,2026-09-07,2026-09,Correo electrónico,Cuenta de ahorros,Fallas en canales digitales,Normal,Canales,15,2026-09-29,2026-09-11,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0034,2026-09-08,2026-09-07,2026-09,Página web,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-09-29,2026-09-11,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0035,2026-09-08,2026-09-07,2026-09,Página web,Cuenta de ahorros,Fallas en canales digitales,Normal,Canales,15,2026-09-29,2026-09-10,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0036,2026-09-09,2026-09-07,2026-09,Correo electrónico,Tarjeta de crédito,Fallas en canales digitales,Normal,Canales,15,2026-09-30,2026-09-15,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0037,2026-09-09,2026-09-07,2026-09,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-09-30,2026-10-02,Respondida tarde,1,0,0,1,0,17,,alta,Revisión rápida,0
+Q0038,2026-09-09,2026-09-07,2026-09,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-09-30,2026-09-21,Respondida a tiempo,1,0,1,0,0,8,,alta,Revisión rápida,0
+Q0039,2026-09-09,2026-09-07,2026-09,Correo electrónico,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-09-30,2026-09-15,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0040,2026-09-10,2026-09-07,2026-09,App,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,5,2026-09-17,2026-09-16,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0041,2026-09-10,2026-09-07,2026-09,Superfinanciera,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-01,2026-09-22,Respondida a tiempo,1,0,1,0,0,8,,alta,Revisión rápida,0
+Q0042,2026-09-10,2026-09-07,2026-09,Superfinanciera,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-01,2026-09-22,Respondida a tiempo,1,0,1,0,0,8,,alta,Revisión rápida,0
+Q0043,2026-09-10,2026-09-07,2026-09,App,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-17,2026-09-11,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0044,2026-09-10,2026-09-07,2026-09,Oficina,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-10-01,2026-09-14,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0045,2026-09-10,2026-09-07,2026-09,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,5,2026-09-17,2026-09-18,Respondida tarde,1,0,0,1,0,6,,alta,Revisión rápida,0
+Q0046,2026-09-10,2026-09-07,2026-09,Superfinanciera,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-01,2026-09-15,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0047,2026-09-10,2026-09-07,2026-09,Oficina,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-01,2026-09-23,Respondida a tiempo,1,0,1,0,0,9,,alta,Revisión rápida,0
+Q0048,2026-09-11,2026-09-07,2026-09,App,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-02,2026-09-24,Respondida a tiempo,1,0,1,0,0,9,,alta,Revisión rápida,0
+Q0049,2026-09-11,2026-09-07,2026-09,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-02,2026-09-24,Respondida a tiempo,1,0,1,0,0,9,,alta,Revisión rápida,0
+Q0050,2026-09-11,2026-09-07,2026-09,Página web,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-10-02,2026-09-14,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0051,2026-09-11,2026-09-07,2026-09,App,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-10-02,2026-09-14,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0052,2026-09-11,2026-09-07,2026-09,Superfinanciera,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-02,2026-09-25,Respondida a tiempo,1,0,1,0,0,10,,alta,Revisión rápida,0
+Q0053,2026-09-11,2026-09-07,2026-09,App,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-10-02,2026-09-28,Respondida a tiempo,1,0,1,0,0,11,,alta,Revisión rápida,0
+Q0054,2026-09-12,2026-09-07,2026-09,Superfinanciera,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-10-02,2026-09-16,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0055,2026-09-12,2026-09-07,2026-09,Correo electrónico,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-10-02,2026-09-17,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0056,2026-09-12,2026-09-07,2026-09,Correo electrónico,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-18,2026-09-16,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0057,2026-09-12,2026-09-07,2026-09,Superfinanciera,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-10-02,2026-09-28,Respondida a tiempo,1,0,1,0,0,11,,alta,Revisión rápida,0
+Q0058,2026-09-14,2026-09-14,2026-09,Correo electrónico,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-21,2026-09-15,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0059,2026-09-14,2026-09-14,2026-09,App,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-10-05,2026-09-29,Respondida a tiempo,1,0,1,0,0,11,,alta,Revisión rápida,0
+Q0060,2026-09-14,2026-09-14,2026-09,Página web,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-05,2026-09-30,Respondida a tiempo,1,0,1,0,0,12,,alta,Revisión rápida,0
+Q0061,2026-09-15,2026-09-14,2026-09,Correo electrónico,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-06,2026-10-02,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0062,2026-09-15,2026-09-14,2026-09,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-06,2026-10-05,Respondida a tiempo,1,0,1,0,0,14,,alta,Revisión rápida,0
+Q0063,2026-09-15,2026-09-14,2026-09,App,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-06,2026-09-17,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0064,2026-09-15,2026-09-14,2026-09,Correo electrónico,Tarjeta de crédito,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-09-22,2026-09-18,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0065,2026-09-15,2026-09-14,2026-09,Oficina,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-06,2026-09-18,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0066,2026-09-16,2026-09-14,2026-09,Correo electrónico,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-07,2026-09-21,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0067,2026-09-16,2026-09-14,2026-09,Correo electrónico,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-10-07,2026-10-05,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0068,2026-09-16,2026-09-14,2026-09,Correo electrónico,Cuenta corriente,Indebida atención,Exprés,Servicio al cliente,5,2026-09-23,2026-09-18,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0069,2026-09-17,2026-09-14,2026-09,App,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-24,2026-09-22,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0070,2026-09-17,2026-09-14,2026-09,Página web,Tarjeta de crédito,Cobranza,Normal,Cartera,15,2026-10-08,2026-09-22,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0071,2026-09-18,2026-09-14,2026-09,Superfinanciera,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-25,2026-09-24,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0072,2026-09-18,2026-09-14,2026-09,Página web,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-09,2026-10-07,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0073,2026-09-18,2026-09-14,2026-09,App,Crédito de consumo,Revisión o liquidación del crédito,Exprés,Cartera,5,2026-09-25,2026-09-22,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0074,2026-09-18,2026-09-14,2026-09,App,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-10-09,2026-09-22,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0075,2026-09-18,2026-09-14,2026-09,App,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-09,2026-09-24,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0076,2026-09-19,2026-09-14,2026-09,Página web,Cuenta de ahorros,Fallas en canales digitales,Normal,Canales,15,2026-10-09,2026-09-24,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0077,2026-09-19,2026-09-14,2026-09,Correo electrónico,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-09,2026-09-21,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0078,2026-09-19,2026-09-14,2026-09,Página web,Tarjeta de crédito,Cobranza,Normal,Cartera,15,2026-10-09,2026-09-24,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0079,2026-09-19,2026-09-14,2026-09,App,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-09,2026-10-07,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0080,2026-09-19,2026-09-14,2026-09,App,Tarjeta de crédito,Cobranza,Exprés,Cartera,5,2026-09-25,2026-09-24,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0081,2026-09-21,2026-09-21,2026-09,Página web,Cuenta de ahorros,Fallas en canales digitales,Exprés,Canales,5,2026-09-28,2026-09-23,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0082,2026-09-21,2026-09-21,2026-09,App,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-10-13,2026-10-13,Respondida a tiempo,1,0,1,0,0,15,,alta,Revisión rápida,0
+Q0083,2026-09-21,2026-09-21,2026-09,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-13,2026-10-08,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0084,2026-09-22,2026-09-21,2026-09,Página web,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-14,2026-10-09,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0085,2026-09-22,2026-09-21,2026-09,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-14,2026-10-09,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0086,2026-09-22,2026-09-21,2026-09,Oficina,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-09-29,2026-09-28,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0087,2026-09-22,2026-09-21,2026-09,Página web,Tarjeta de crédito,Revisión o liquidación del crédito,Exprés,Cartera,5,2026-09-29,2026-09-23,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0088,2026-09-22,2026-09-21,2026-09,Correo electrónico,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-14,2026-09-23,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0089,2026-09-22,2026-09-21,2026-09,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-14,2026-10-13,Respondida a tiempo,1,0,1,0,0,14,,alta,Revisión rápida,0
+Q0090,2026-09-22,2026-09-21,2026-09,App,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-10-14,2026-09-28,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0091,2026-09-23,2026-09-21,2026-09,Página web,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-10-15,2026-09-24,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0092,2026-09-23,2026-09-21,2026-09,App,Crédito de consumo,Fallas en canales digitales,Normal,Canales,15,2026-10-15,2026-09-25,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0093,2026-09-23,2026-09-21,2026-09,Página web,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-10-15,2026-09-28,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0094,2026-09-23,2026-09-21,2026-09,Correo electrónico,Cuenta corriente,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-09-30,2026-09-24,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0095,2026-09-23,2026-09-21,2026-09,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-15,2026-10-14,Respondida a tiempo,1,0,1,0,0,14,,alta,Revisión rápida,0
+Q0096,2026-09-23,2026-09-21,2026-09,App,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-10-15,2026-09-28,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0097,2026-09-23,2026-09-21,2026-09,App,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-10-15,2026-09-24,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0098,2026-09-23,2026-09-21,2026-09,Oficina,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-15,2026-09-28,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0099,2026-09-24,2026-09-21,2026-09,Correo electrónico,Crédito de consumo,Indebida atención,Exprés,Servicio al cliente,5,2026-10-01,2026-09-25,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0100,2026-09-24,2026-09-21,2026-09,Superfinanciera,Tarjeta de crédito,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-10-01,2026-09-30,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0101,2026-09-24,2026-09-21,2026-09,App,Tarjeta de crédito,Revisión o liquidación del crédito,Normal,Cartera,15,2026-10-16,2026-09-30,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0102,2026-09-24,2026-09-21,2026-09,Oficina,Depósito de bajo monto,Indebida atención,Normal,Servicio al cliente,15,2026-10-16,2026-09-28,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0103,2026-09-24,2026-09-21,2026-09,Oficina,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-16,2026-10-14,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0104,2026-09-24,2026-09-21,2026-09,App,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-10-16,2026-10-15,Respondida a tiempo,1,0,1,0,0,14,,alta,Revisión rápida,0
+Q0105,2026-09-24,2026-09-21,2026-09,Oficina,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-16,2026-10-16,Respondida a tiempo,1,0,1,0,0,15,,alta,Revisión rápida,0
+Q0106,2026-09-24,2026-09-21,2026-09,Correo electrónico,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-16,2026-09-29,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0107,2026-09-25,2026-09-21,2026-09,Correo electrónico,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-10-19,2026-10-01,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0108,2026-09-25,2026-09-21,2026-09,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-19,2026-10-16,Respondida a tiempo,1,0,1,0,0,14,,alta,Revisión rápida,0
+Q0109,2026-09-25,2026-09-21,2026-09,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-19,2026-10-19,Respondida a tiempo,1,0,1,0,0,15,,alta,Revisión rápida,0
+Q0110,2026-09-25,2026-09-21,2026-09,Oficina,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-10-19,2026-09-30,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0111,2026-09-25,2026-09-21,2026-09,App,Crédito de consumo,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-19,2026-09-30,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0112,2026-09-25,2026-09-21,2026-09,Superfinanciera,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,5,2026-10-02,2026-10-01,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0113,2026-09-25,2026-09-21,2026-09,App,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-02,2026-09-29,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0114,2026-09-27,2026-09-21,2026-09,Oficina,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,5,2026-10-02,2026-09-30,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0115,2026-09-27,2026-09-21,2026-09,Página web,Tarjeta de crédito,Indebida atención,Normal,Servicio al cliente,15,2026-10-19,2026-09-29,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0116,2026-09-28,2026-09-28,2026-09,Correo electrónico,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-10-20,2026-10-20,Respondida a tiempo,1,0,1,0,0,15,,alta,Revisión rápida,0
+Q0117,2026-09-28,2026-09-28,2026-09,Página web,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-10-20,2026-10-02,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0118,2026-09-29,2026-09-28,2026-09,Correo electrónico,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,5,2026-10-06,2026-10-06,Respondida a tiempo,1,0,1,0,0,5,,alta,Revisión rápida,0
+Q0119,2026-09-29,2026-09-28,2026-09,Oficina,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-10-21,2026-10-05,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0120,2026-09-29,2026-09-28,2026-09,App,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-21,2026-10-01,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0121,2026-09-30,2026-09-28,2026-09,Oficina,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-10-22,2026-10-01,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0122,2026-09-30,2026-09-28,2026-09,Correo electrónico,Cuenta de ahorros,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-10-07,2026-10-09,Respondida tarde,1,0,0,1,0,7,,alta,Revisión rápida,0
+Q0123,2026-09-30,2026-09-28,2026-09,Oficina,Cuenta corriente,Indebida atención,Normal,Servicio al cliente,15,2026-10-22,2026-10-01,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0124,2026-09-30,2026-09-28,2026-09,Oficina,Tarjeta de crédito,Fallas en canales digitales,Normal,Canales,15,2026-10-22,2026-10-01,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0125,2026-09-30,2026-09-28,2026-09,App,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-10-22,2026-10-01,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0126,2026-09-30,2026-09-28,2026-09,Página web,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-10-22,2026-10-05,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0127,2026-09-30,2026-09-28,2026-09,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-22,2026-10-20,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0128,2026-09-30,2026-09-28,2026-09,Página web,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-10-22,2026-10-01,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0129,2026-09-30,2026-09-28,2026-09,App,Cuenta corriente,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-07,2026-10-02,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0130,2026-10-01,2026-09-28,2026-10,Página web,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-10-23,2026-10-05,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0131,2026-10-01,2026-09-28,2026-10,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-23,2026-10-21,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0132,2026-10-01,2026-09-28,2026-10,Página web,Tarjeta de crédito,Revisión o liquidación del crédito,Exprés,Cartera,5,2026-10-08,2026-10-22,Respondida tarde,1,0,0,1,0,14,,alta,Revisión rápida,0
+Q0133,2026-10-01,2026-09-28,2026-10,App,Tarjeta de crédito,Fallas en canales digitales,Normal,Canales,15,2026-10-23,2026-10-20,Respondida a tiempo,1,0,1,0,0,12,,alta,Revisión rápida,0
+Q0134,2026-10-01,2026-09-28,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-23,2026-10-21,Respondida a tiempo,1,0,1,0,0,13,,alta,Revisión rápida,0
+Q0135,2026-10-02,2026-09-28,2026-10,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-26,2026-10-23,Respondida a tiempo,1,0,1,0,0,14,,alta,Revisión rápida,0
+Q0136,2026-10-02,2026-09-28,2026-10,App,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-26,2026-10-26,Respondida a tiempo,1,0,1,0,0,15,,alta,Revisión rápida,0
+Q0137,2026-10-02,2026-09-28,2026-10,Oficina,Crédito de consumo,Indebida atención,Normal,Servicio al cliente,15,2026-10-26,2026-10-06,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0138,2026-10-02,2026-09-28,2026-10,App,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-26,2026-10-08,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0139,2026-10-02,2026-09-28,2026-10,Página web,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-10-26,2026-10-27,Respondida tarde,1,0,0,1,0,16,,alta,Revisión rápida,0
+Q0140,2026-10-03,2026-09-28,2026-10,Correo electrónico,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-10-26,2026-10-27,Respondida tarde,1,0,0,1,0,16,,alta,Revisión rápida,0
+Q0141,2026-10-05,2026-10-05,2026-10,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-27,2026-10-29,Respondida tarde,1,0,0,1,0,17,,alta,Revisión rápida,0
+Q0142,2026-10-06,2026-10-05,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-28,2026-10-29,Respondida tarde,1,0,0,1,0,16,,alta,Revisión rápida,0
+Q0143,2026-10-06,2026-10-05,2026-10,Correo electrónico,Crédito de consumo,Revisión o liquidación del crédito,Exprés,Cartera,5,2026-10-14,2026-10-13,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0144,2026-10-06,2026-10-05,2026-10,Oficina,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-28,2026-10-30,Respondida tarde,1,0,0,1,0,17,,alta,Revisión rápida,0
+Q0145,2026-10-06,2026-10-05,2026-10,App,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-10-28,2026-10-08,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0146,2026-10-07,2026-10-05,2026-10,App,Crédito de consumo,Indebida atención,Normal,Servicio al cliente,15,2026-10-29,2026-10-09,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0147,2026-10-07,2026-10-05,2026-10,Página web,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-15,2026-10-08,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0148,2026-10-07,2026-10-05,2026-10,App,Depósito de bajo monto,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-15,2026-10-09,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0149,2026-10-07,2026-10-05,2026-10,Correo electrónico,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-10-29,2026-10-08,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0150,2026-10-08,2026-10-05,2026-10,Correo electrónico,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-16,2026-10-21,Respondida tarde,1,0,0,1,0,8,,alta,Revisión rápida,0
+Q0151,2026-10-08,2026-10-05,2026-10,App,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-10-30,2026-11-03,Respondida tarde,1,0,0,1,0,16,,alta,Revisión rápida,0
+Q0152,2026-10-08,2026-10-05,2026-10,Página web,Tarjeta de crédito,Cobranza,Exprés,Cartera,5,2026-10-16,2026-10-09,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0153,2026-10-08,2026-10-05,2026-10,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-10-30,2026-11-04,Respondida tarde,1,0,0,1,0,17,,alta,Revisión rápida,0
+Q0154,2026-10-09,2026-10-05,2026-10,App,Cuenta corriente,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-19,2026-10-13,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0155,2026-10-09,2026-10-05,2026-10,Correo electrónico,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-19,2026-10-15,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0156,2026-10-09,2026-10-05,2026-10,App,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-11-03,2026-11-04,Respondida tarde,1,0,0,1,0,16,,alta,Revisión rápida,0
+Q0157,2026-10-09,2026-10-05,2026-10,Oficina,Tarjeta de crédito,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-10-19,2026-10-14,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0158,2026-10-09,2026-10-05,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-03,2026-11-05,Respondida tarde,1,0,0,1,0,17,,alta,Revisión rápida,0
+Q0159,2026-10-09,2026-10-05,2026-10,Correo electrónico,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-19,2026-10-16,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0160,2026-10-09,2026-10-05,2026-10,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-03,2026-11-06,Respondida tarde,1,0,0,1,0,18,,alta,Revisión rápida,0
+Q0161,2026-10-09,2026-10-05,2026-10,Oficina,Tarjeta de crédito,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-10-19,2026-10-15,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0162,2026-10-10,2026-10-05,2026-10,Superfinanciera,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-11-03,2026-10-16,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0163,2026-10-10,2026-10-05,2026-10,Página web,Cuenta de ahorros,Fallas en canales digitales,Normal,Canales,15,2026-11-03,2026-10-16,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0164,2026-10-10,2026-10-05,2026-10,Oficina,Tarjeta de crédito,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-03,2026-10-13,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0165,2026-10-10,2026-10-05,2026-10,App,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-03,2026-10-16,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0166,2026-10-11,2026-10-05,2026-10,Página web,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-03,2026-11-06,Respondida tarde,1,0,0,1,0,18,,alta,Revisión rápida,0
+Q0167,2026-10-11,2026-10-05,2026-10,Correo electrónico,Tarjeta de crédito,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-19,2026-10-15,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0168,2026-10-13,2026-10-12,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-04,2026-11-09,Respondida tarde,1,0,0,1,0,18,,alta,Revisión rápida,0
+Q0169,2026-10-13,2026-10-12,2026-10,App,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-04,2026-10-15,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0170,2026-10-13,2026-10-12,2026-10,Correo electrónico,Cuenta corriente,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-20,2026-10-14,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0171,2026-10-13,2026-10-12,2026-10,App,Tarjeta de crédito,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-04,2026-10-14,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0172,2026-10-14,2026-10-12,2026-10,Correo electrónico,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-21,2026-10-19,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0173,2026-10-14,2026-10-12,2026-10,Página web,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-11-05,2026-10-20,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0174,2026-10-14,2026-10-12,2026-10,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-05,2026-11-10,Respondida tarde,1,0,0,1,0,18,,alta,Revisión rápida,0
+Q0175,2026-10-14,2026-10-12,2026-10,Página web,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-05,2026-11-10,Respondida tarde,1,0,0,1,0,18,,alta,Revisión rápida,0
+Q0176,2026-10-14,2026-10-12,2026-10,Página web,Cuenta corriente,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-21,2026-10-15,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0177,2026-10-15,2026-10-12,2026-10,Página web,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-11-06,2026-11-11,Respondida tarde,1,0,0,1,0,18,,alta,Revisión rápida,0
+Q0178,2026-10-15,2026-10-12,2026-10,Página web,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-11-06,2026-11-12,Respondida tarde,1,0,0,1,0,19,,alta,Revisión rápida,0
+Q0179,2026-10-15,2026-10-12,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-06,2026-11-12,Respondida tarde,1,0,0,1,0,19,,alta,Revisión rápida,0
+Q0180,2026-10-15,2026-10-12,2026-10,Correo electrónico,Depósito de bajo monto,Indebida atención,Normal,Servicio al cliente,15,2026-11-06,2026-10-20,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0181,2026-10-15,2026-10-12,2026-10,App,Tarjeta de crédito,Fallas en canales digitales,Normal,Canales,15,2026-11-06,2026-10-28,Respondida a tiempo,1,0,1,0,0,9,,alta,Revisión rápida,0
+Q0182,2026-10-15,2026-10-12,2026-10,Oficina,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-06,2026-11-13,Respondida tarde,1,0,0,1,0,20,,alta,Revisión rápida,0
+Q0183,2026-10-16,2026-10-12,2026-10,Correo electrónico,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-09,,Abierta y vencida,0,1,0,1,0,,-4,alta,Revisión rápida,0
+Q0184,2026-10-16,2026-10-12,2026-10,App,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-09,,Abierta y vencida,0,1,0,1,0,,-4,alta,Revisión rápida,0
+Q0185,2026-10-16,2026-10-12,2026-10,Correo electrónico,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-09,2026-10-19,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0186,2026-10-16,2026-10-12,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,5,2026-10-23,2026-10-22,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0187,2026-10-16,2026-10-12,2026-10,App,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-23,2026-10-19,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0188,2026-10-16,2026-10-12,2026-10,Oficina,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-23,2026-10-19,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0189,2026-10-16,2026-10-12,2026-10,Oficina,Depósito de bajo monto,Indebida atención,Exprés,Servicio al cliente,5,2026-10-23,2026-10-20,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0190,2026-10-16,2026-10-12,2026-10,Superfinanciera,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-23,2026-10-21,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0191,2026-10-16,2026-10-12,2026-10,Correo electrónico,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,5,2026-10-23,2026-10-23,Respondida a tiempo,1,0,1,0,0,5,,alta,Revisión rápida,0
+Q0192,2026-10-18,2026-10-12,2026-10,App,Tarjeta de crédito,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-09,2026-10-20,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0193,2026-10-19,2026-10-19,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-10,,Abierta y vencida,0,1,0,1,0,,-3,alta,Revisión rápida,0
+Q0194,2026-10-19,2026-10-19,2026-10,Página web,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,5,2026-10-26,2026-10-28,Respondida tarde,1,0,0,1,0,7,,alta,Revisión rápida,0
+Q0195,2026-10-19,2026-10-19,2026-10,App,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-26,2026-10-23,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0196,2026-10-19,2026-10-19,2026-10,Correo electrónico,Cuenta corriente,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-10-26,2026-10-20,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0197,2026-10-19,2026-10-19,2026-10,Oficina,Crédito de consumo,Cobranza,Exprés,Cartera,5,2026-10-26,2026-10-22,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0198,2026-10-19,2026-10-19,2026-10,Página web,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-10,2026-10-21,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0199,2026-10-19,2026-10-19,2026-10,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-10,,Abierta y vencida,0,1,0,1,0,,-3,alta,Revisión rápida,0
+Q0200,2026-10-19,2026-10-19,2026-10,App,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-11-10,2026-10-22,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0201,2026-10-20,2026-10-19,2026-10,Página web,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-27,2026-11-09,Respondida tarde,1,0,0,1,0,13,,alta,Revisión rápida,0
+Q0202,2026-10-20,2026-10-19,2026-10,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-11,,Abierta y vencida,0,1,0,1,0,,-2,alta,Revisión rápida,0
+Q0203,2026-10-20,2026-10-19,2026-10,Correo electrónico,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-11,2026-10-21,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0204,2026-10-20,2026-10-19,2026-10,Oficina,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-11,2026-10-26,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0205,2026-10-20,2026-10-19,2026-10,Página web,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-11-11,2026-11-05,Respondida a tiempo,1,0,1,0,0,11,,alta,Revisión rápida,0
+Q0206,2026-10-20,2026-10-19,2026-10,Página web,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-10-27,2026-10-21,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0207,2026-10-21,2026-10-19,2026-10,Página web,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-11-12,2026-10-27,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0208,2026-10-21,2026-10-19,2026-10,Correo electrónico,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,5,2026-10-28,2026-11-03,Respondida tarde,1,0,0,1,0,8,,alta,Revisión rápida,0
+Q0209,2026-10-21,2026-10-19,2026-10,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-12,,Abierta y vencida,0,1,0,1,0,,-1,alta,Revisión rápida,0
+Q0210,2026-10-21,2026-10-19,2026-10,Oficina,Crédito de consumo,Fallas en canales digitales,Normal,Canales,15,2026-11-12,2026-10-23,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0211,2026-10-21,2026-10-19,2026-10,Página web,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-12,,Abierta y vencida,0,1,0,1,0,,-1,alta,Revisión rápida,0
+Q0212,2026-10-21,2026-10-19,2026-10,Correo electrónico,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-11-12,,Abierta y vencida,0,1,0,1,0,,-1,alta,Revisión rápida,0
+Q0213,2026-10-22,2026-10-19,2026-10,App,Tarjeta de crédito,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-29,2026-10-23,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0214,2026-10-22,2026-10-19,2026-10,Oficina,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-13,2026-10-28,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0215,2026-10-22,2026-10-19,2026-10,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-13,,Abierta por vencer,0,1,0,0,1,,1,alta,Revisión rápida,0
+Q0216,2026-10-22,2026-10-19,2026-10,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-13,,Abierta por vencer,0,1,0,0,1,,1,alta,Revisión rápida,0
+Q0217,2026-10-22,2026-10-19,2026-10,Superfinanciera,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-10-29,2026-11-13,Respondida tarde,1,0,0,1,0,15,,alta,Revisión rápida,0
+Q0218,2026-10-22,2026-10-19,2026-10,Correo electrónico,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-13,2026-10-26,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0219,2026-10-22,2026-10-19,2026-10,Página web,Tarjeta de crédito,Revisión o liquidación del crédito,Exprés,Cartera,5,2026-10-29,2026-10-28,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0220,2026-10-23,2026-10-19,2026-10,Página web,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-17,2026-11-10,Respondida a tiempo,1,0,1,0,0,11,,alta,Revisión rápida,0
+Q0221,2026-10-24,2026-10-19,2026-10,Correo electrónico,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-17,,Abierta por vencer,0,1,0,0,1,,2,alta,Revisión rápida,0
+Q0222,2026-10-25,2026-10-19,2026-10,Página web,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-17,,Abierta por vencer,0,1,0,0,1,,2,alta,Revisión rápida,0
+Q0223,2026-10-25,2026-10-19,2026-10,Página web,Crédito de consumo,Indebida atención,Normal,Servicio al cliente,15,2026-11-17,2026-10-27,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0224,2026-10-26,2026-10-26,2026-10,Superfinanciera,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-11-18,,Abierta por vencer,0,1,0,0,1,,3,alta,Revisión rápida,0
+Q0225,2026-10-26,2026-10-26,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-18,,Abierta por vencer,0,1,0,0,1,,3,alta,Revisión rápida,0
+Q0226,2026-10-26,2026-10-26,2026-10,Superfinanciera,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-18,,Abierta por vencer,0,1,0,0,1,,3,alta,Revisión rápida,0
+Q0227,2026-10-26,2026-10-26,2026-10,Correo electrónico,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-18,,Abierta por vencer,0,1,0,0,1,,3,alta,Revisión rápida,0
+Q0228,2026-10-26,2026-10-26,2026-10,App,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-11-18,2026-10-27,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0229,2026-10-27,2026-10-26,2026-10,Superfinanciera,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-19,,Abierta en plazo,0,1,0,0,0,,4,alta,Revisión rápida,0
+Q0230,2026-10-27,2026-10-26,2026-10,Página web,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-19,2026-11-04,Respondida a tiempo,1,0,1,0,0,5,,alta,Revisión rápida,0
+Q0231,2026-10-27,2026-10-26,2026-10,Oficina,Crédito de consumo,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-19,2026-10-29,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0232,2026-10-27,2026-10-26,2026-10,App,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-19,2026-10-28,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0233,2026-10-27,2026-10-26,2026-10,Correo electrónico,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-19,2026-11-03,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0234,2026-10-27,2026-10-26,2026-10,Correo electrónico,Tarjeta de crédito,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-19,2026-10-30,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0235,2026-10-27,2026-10-26,2026-10,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-19,,Abierta en plazo,0,1,0,0,0,,4,alta,Revisión rápida,0
+Q0236,2026-10-27,2026-10-26,2026-10,Página web,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-11-19,2026-10-29,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0237,2026-10-27,2026-10-26,2026-10,Página web,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-19,2026-10-30,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0238,2026-10-27,2026-10-26,2026-10,Oficina,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-19,2026-11-03,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0239,2026-10-27,2026-10-26,2026-10,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-19,,Abierta en plazo,0,1,0,0,0,,4,alta,Revisión rápida,0
+Q0240,2026-10-27,2026-10-26,2026-10,App,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-11-19,2026-11-03,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0241,2026-10-27,2026-10-26,2026-10,Página web,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-19,,Abierta en plazo,0,1,0,0,0,,4,alta,Revisión rápida,0
+Q0242,2026-10-28,2026-10-26,2026-10,Correo electrónico,Tarjeta de crédito,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-20,2026-11-04,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0243,2026-10-28,2026-10-26,2026-10,App,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-11-20,,Abierta en plazo,0,1,0,0,0,,5,alta,Revisión rápida,0
+Q0244,2026-10-28,2026-10-26,2026-10,Página web,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-20,,Abierta en plazo,0,1,0,0,0,,5,alta,Revisión rápida,0
+Q0245,2026-10-28,2026-10-26,2026-10,App,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-11-05,2026-11-03,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0246,2026-10-29,2026-10-26,2026-10,App,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-11-23,,Abierta en plazo,0,1,0,0,0,,6,alta,Revisión rápida,0
+Q0247,2026-10-29,2026-10-26,2026-10,Correo electrónico,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-11-23,,Abierta en plazo,0,1,0,0,0,,6,alta,Revisión rápida,0
+Q0248,2026-10-29,2026-10-26,2026-10,Correo electrónico,Tarjeta de crédito,Indebida atención,Normal,Servicio al cliente,15,2026-11-23,2026-11-03,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0249,2026-10-29,2026-10-26,2026-10,Página web,Tarjeta de crédito,Cobranza,Normal,Cartera,15,2026-11-23,2026-11-05,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0250,2026-10-29,2026-10-26,2026-10,Página web,Tarjeta de crédito,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-11-06,2026-11-03,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0251,2026-10-29,2026-10-26,2026-10,App,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-11-23,,Abierta en plazo,0,1,0,0,0,,6,alta,Revisión rápida,0
+Q0252,2026-10-29,2026-10-26,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-23,,Abierta en plazo,0,1,0,0,0,,6,alta,Revisión rápida,0
+Q0253,2026-10-29,2026-10-26,2026-10,Página web,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-23,2026-11-03,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0254,2026-10-30,2026-10-26,2026-10,Página web,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-11-09,2026-11-04,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0255,2026-10-30,2026-10-26,2026-10,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-24,,Abierta en plazo,0,1,0,0,0,,7,alta,Revisión rápida,0
+Q0256,2026-10-30,2026-10-26,2026-10,Correo electrónico,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-24,,Abierta en plazo,0,1,0,0,0,,7,alta,Revisión rápida,0
+Q0257,2026-10-30,2026-10-26,2026-10,Correo electrónico,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-24,,Abierta en plazo,0,1,0,0,0,,7,alta,Revisión rápida,0
+Q0258,2026-10-30,2026-10-26,2026-10,Correo electrónico,Cuenta corriente,Fallas en canales digitales,Normal,Canales,15,2026-11-24,2026-11-04,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0259,2026-10-30,2026-10-26,2026-10,Página web,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-11-24,,Abierta en plazo,0,1,0,0,0,,7,alta,Revisión rápida,0
+Q0260,2026-10-31,2026-10-26,2026-10,Página web,Cuenta corriente,Fallas en canales digitales,Exprés,Canales,5,2026-11-09,2026-11-04,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0261,2026-10-31,2026-10-26,2026-10,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-24,,Abierta en plazo,0,1,0,0,0,,7,alta,Revisión rápida,0
+Q0262,2026-10-31,2026-10-26,2026-10,Superfinanciera,Depósito de bajo monto,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-11-09,2026-11-04,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0263,2026-10-31,2026-10-26,2026-10,App,Tarjeta de crédito,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-11-09,,Abierta y vencida,0,1,0,1,0,,-4,alta,Revisión rápida,0
+Q0264,2026-11-02,2026-11-02,2026-11,App,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-11-09,2026-11-06,Respondida a tiempo,1,0,1,0,0,4,,alta,Revisión rápida,0
+Q0265,2026-11-02,2026-11-02,2026-11,Oficina,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,5,2026-11-09,,Abierta y vencida,0,1,0,1,0,,-4,alta,Revisión rápida,0
+Q0266,2026-11-02,2026-11-02,2026-11,Página web,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-24,,Abierta en plazo,0,1,0,0,0,,7,alta,Revisión rápida,0
+Q0267,2026-11-03,2026-11-02,2026-11,Superfinanciera,Tarjeta de crédito,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-25,2026-11-05,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0268,2026-11-03,2026-11-02,2026-11,Página web,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-11-10,2026-11-04,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0269,2026-11-03,2026-11-02,2026-11,Correo electrónico,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-25,,Abierta en plazo,0,1,0,0,0,,8,alta,Revisión rápida,0
+Q0270,2026-11-03,2026-11-02,2026-11,Página web,Tarjeta de crédito,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-11-10,2026-11-05,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0271,2026-11-04,2026-11-02,2026-11,Oficina,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,5,2026-11-11,,Abierta y vencida,0,1,0,1,0,,-2,alta,Revisión rápida,0
+Q0272,2026-11-04,2026-11-02,2026-11,Superfinanciera,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-11-26,2026-11-05,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0273,2026-11-04,2026-11-02,2026-11,Página web,Depósito de bajo monto,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-26,2026-11-06,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0274,2026-11-04,2026-11-02,2026-11,App,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-11-26,,Abierta en plazo,0,1,0,0,0,,9,alta,Revisión rápida,0
+Q0275,2026-11-05,2026-11-02,2026-11,Correo electrónico,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-11-27,2026-11-06,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0276,2026-11-05,2026-11-02,2026-11,Página web,Crédito de consumo,Fallas en canales digitales,Normal,Canales,15,2026-11-27,2026-11-10,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0277,2026-11-06,2026-11-02,2026-11,Página web,Cuenta de ahorros,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-11-30,,Abierta en plazo,0,1,0,0,0,,11,alta,Revisión rápida,0
+Q0278,2026-11-06,2026-11-02,2026-11,Página web,Depósito de bajo monto,Fallas en canales digitales,Normal,Canales,15,2026-11-30,2026-11-11,Respondida a tiempo,1,0,1,0,0,3,,alta,Revisión rápida,0
+Q0279,2026-11-06,2026-11-02,2026-11,Página web,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-11-30,,Abierta en plazo,0,1,0,0,0,,11,alta,Revisión rápida,0
+Q0280,2026-11-06,2026-11-02,2026-11,App,Crédito de consumo,Transacción no reconocida,Fraude,Fraude,15,2026-11-30,,Abierta en plazo,0,1,0,0,0,,11,alta,Revisión rápida,0
+Q0281,2026-11-06,2026-11-02,2026-11,App,Tarjeta de crédito,Indebida atención,Normal,Servicio al cliente,15,2026-11-30,2026-11-10,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0282,2026-11-07,2026-11-02,2026-11,Correo electrónico,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-11-30,,Abierta en plazo,0,1,0,0,0,,11,alta,Revisión rápida,0
+Q0283,2026-11-09,2026-11-09,2026-11,Página web,Tarjeta de crédito,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-11-17,2026-11-11,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0284,2026-11-09,2026-11-09,2026-11,App,Cuenta de ahorros,Fallas en canales digitales,Normal,Canales,15,2026-12-01,2026-11-11,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0285,2026-11-09,2026-11-09,2026-11,App,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,5,2026-11-17,,Abierta por vencer,0,1,0,0,1,,2,alta,Revisión rápida,0
+Q0286,2026-11-09,2026-11-09,2026-11,Página web,Crédito de consumo,Reporte a centrales de riesgo,Exprés,Cartera,5,2026-11-17,2026-11-11,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0287,2026-11-10,2026-11-09,2026-11,Página web,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-12-02,,Abierta en plazo,0,1,0,0,0,,13,alta,Revisión rápida,0
+Q0288,2026-11-10,2026-11-09,2026-11,Página web,Tarjeta de crédito,Transacción no reconocida,Fraude,Fraude,15,2026-12-02,,Abierta en plazo,0,1,0,0,0,,13,alta,Revisión rápida,0
+Q0289,2026-11-10,2026-11-09,2026-11,Página web,Cuenta de ahorros,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-11-18,2026-11-11,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0290,2026-11-10,2026-11-09,2026-11,Página web,Cuenta corriente,Transacción no reconocida,Fraude,Fraude,15,2026-12-02,,Abierta en plazo,0,1,0,0,0,,13,alta,Revisión rápida,0
+Q0291,2026-11-11,2026-11-09,2026-11,App,Tarjeta de crédito,Revisión o liquidación del crédito,Normal,Cartera,15,2026-12-03,,Abierta en plazo,0,1,0,0,0,,14,alta,Revisión rápida,0
+Q0292,2026-11-11,2026-11-09,2026-11,Página web,Crédito de consumo,Revisión o liquidación del crédito,Normal,Cartera,15,2026-12-03,,Abierta en plazo,0,1,0,0,0,,14,alta,Revisión rápida,0
+Q0293,2026-11-11,2026-11-09,2026-11,Página web,Cuenta corriente,Indebida atención,Normal,Servicio al cliente,15,2026-12-03,2026-11-12,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0294,2026-11-11,2026-11-09,2026-11,App,Cuenta corriente,Cobro de servicios o comisiones,Normal,Productos y tarifas,15,2026-12-03,2026-11-13,Respondida a tiempo,1,0,1,0,0,2,,alta,Revisión rápida,0
+Q0295,2026-11-11,2026-11-09,2026-11,App,Crédito de consumo,Cobranza,Normal,Cartera,15,2026-12-03,2026-11-12,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0296,2026-11-11,2026-11-09,2026-11,App,Depósito de bajo monto,Transacción no reconocida,Fraude,Fraude,15,2026-12-03,,Abierta en plazo,0,1,0,0,0,,14,alta,Revisión rápida,0
+Q0297,2026-11-11,2026-11-09,2026-11,Oficina,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-12-03,,Abierta en plazo,0,1,0,0,0,,14,alta,Revisión rápida,0
+Q0298,2026-11-12,2026-11-09,2026-11,Correo electrónico,Tarjeta de crédito,Cobro de servicios o comisiones,Exprés,Productos y tarifas,5,2026-11-20,2026-11-13,Respondida a tiempo,1,0,1,0,0,1,,alta,Revisión rápida,0
+Q0299,2026-11-12,2026-11-09,2026-11,Correo electrónico,Cuenta de ahorros,Transacción no reconocida,Fraude,Fraude,15,2026-12-04,,Abierta en plazo,0,1,0,0,0,,15,alta,Revisión rápida,0
+Q0300,2026-11-12,2026-11-09,2026-11,Correo electrónico,Cuenta de ahorros,Cobro por operación fallida en cajero,Exprés,Canales,5,2026-11-20,,Abierta en plazo,0,1,0,0,0,,5,alta,Revisión rápida,0

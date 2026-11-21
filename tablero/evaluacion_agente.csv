@@ -1,0 +1,301 @@
+﻿id,producto_real,producto_agente,motivo_real,motivo_agente,confianza,motivo_correcto,producto_y_motivo_correctos
+Q0001,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0002,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0003,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0004,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0005,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0006,Tarjeta de crédito,Tarjeta de crédito,Indebida atención,Indebida atención,alta,1,1
+Q0007,Tarjeta de crédito,Tarjeta de crédito,Indebida atención,Indebida atención,alta,1,1
+Q0008,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0009,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0010,Cuenta corriente,Cuenta corriente,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0011,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0012,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0013,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0014,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0015,Tarjeta de crédito,Tarjeta de crédito,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0016,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0017,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0018,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Cobro de servicios o comisiones,alta,0,0
+Q0019,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0020,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0021,Cuenta corriente,Cuenta corriente,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0022,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0023,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0024,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0025,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0026,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0027,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0028,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0029,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0030,Tarjeta de crédito,Tarjeta de crédito,Cobranza,Cobranza,alta,1,1
+Q0031,Crédito de consumo,Crédito de consumo,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0032,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0033,Cuenta de ahorros,Cuenta de ahorros,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0034,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0035,Cuenta de ahorros,Cuenta de ahorros,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0036,Tarjeta de crédito,Tarjeta de crédito,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0037,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0038,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0039,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0040,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0041,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0042,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0043,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0044,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0045,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0046,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0047,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0048,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0049,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0050,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0051,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0052,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Cobro de servicios o comisiones,alta,0,0
+Q0053,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0054,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0055,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0056,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0057,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0058,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0059,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0060,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0061,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0062,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0063,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0064,Tarjeta de crédito,Tarjeta de crédito,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0065,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0066,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0067,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0068,Cuenta corriente,Cuenta corriente,Indebida atención,Indebida atención,alta,1,1
+Q0069,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0070,Tarjeta de crédito,Tarjeta de crédito,Cobranza,Cobranza,alta,1,1
+Q0071,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0072,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0073,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0074,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0075,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0076,Cuenta de ahorros,Cuenta de ahorros,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0077,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0078,Tarjeta de crédito,Tarjeta de crédito,Cobranza,Cobranza,alta,1,1
+Q0079,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0080,Tarjeta de crédito,Tarjeta de crédito,Cobranza,Cobranza,alta,1,1
+Q0081,Cuenta de ahorros,Cuenta de ahorros,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0082,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0083,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0084,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0085,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0086,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0087,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0088,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0089,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0090,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0091,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0092,Crédito de consumo,Crédito de consumo,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0093,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0094,Cuenta corriente,Cuenta corriente,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0095,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0096,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0097,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0098,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0099,Crédito de consumo,Crédito de consumo,Indebida atención,Indebida atención,alta,1,1
+Q0100,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0101,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0102,Depósito de bajo monto,Depósito de bajo monto,Indebida atención,Indebida atención,alta,1,1
+Q0103,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0104,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0105,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0106,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0107,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0108,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0109,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0110,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0111,Crédito de consumo,Crédito de consumo,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0112,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0113,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0114,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0115,Tarjeta de crédito,Tarjeta de crédito,Indebida atención,Indebida atención,alta,1,1
+Q0116,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0117,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0118,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0119,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0120,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0121,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0122,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0123,Cuenta corriente,Cuenta corriente,Indebida atención,Indebida atención,alta,1,1
+Q0124,Tarjeta de crédito,Tarjeta de crédito,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0125,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0126,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0127,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0128,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0129,Cuenta corriente,Cuenta corriente,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0130,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0131,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0132,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0133,Tarjeta de crédito,Tarjeta de crédito,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0134,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0135,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0136,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0137,Crédito de consumo,Crédito de consumo,Indebida atención,Indebida atención,alta,1,1
+Q0138,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0139,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0140,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0141,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0142,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0143,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0144,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0145,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0146,Crédito de consumo,Crédito de consumo,Indebida atención,Indebida atención,alta,1,1
+Q0147,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0148,Depósito de bajo monto,Depósito de bajo monto,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0149,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0150,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0151,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0152,Tarjeta de crédito,Tarjeta de crédito,Cobranza,Cobranza,alta,1,1
+Q0153,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0154,Cuenta corriente,Cuenta corriente,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0155,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0156,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0157,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0158,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0159,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0160,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0161,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0162,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0163,Cuenta de ahorros,Cuenta de ahorros,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0164,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0165,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0166,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0167,Tarjeta de crédito,Tarjeta de crédito,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0168,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0169,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0170,Cuenta corriente,Cuenta corriente,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0171,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0172,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0173,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0174,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0175,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Cobro de servicios o comisiones,alta,0,0
+Q0176,Cuenta corriente,Cuenta corriente,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0177,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0178,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0179,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0180,Depósito de bajo monto,Depósito de bajo monto,Indebida atención,Indebida atención,alta,1,1
+Q0181,Tarjeta de crédito,Tarjeta de crédito,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0182,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0183,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0184,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0185,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0186,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0187,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0188,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0189,Depósito de bajo monto,Depósito de bajo monto,Indebida atención,Indebida atención,alta,1,1
+Q0190,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0191,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0192,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0193,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0194,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0195,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0196,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0197,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0198,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0199,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0200,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0201,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0202,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0203,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0204,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0205,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0206,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0207,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0208,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0209,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0210,Crédito de consumo,Crédito de consumo,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0211,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0212,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0213,Tarjeta de crédito,Tarjeta de crédito,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0214,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0215,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0216,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0217,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0218,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0219,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0220,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0221,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0222,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0223,Crédito de consumo,Crédito de consumo,Indebida atención,Indebida atención,alta,1,1
+Q0224,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0225,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0226,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0227,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0228,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0229,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0230,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0231,Crédito de consumo,Crédito de consumo,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0232,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0233,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0234,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0235,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0236,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0237,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0238,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0239,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0240,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0241,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0242,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0243,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0244,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0245,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0246,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0247,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0248,Tarjeta de crédito,Tarjeta de crédito,Indebida atención,Indebida atención,alta,1,1
+Q0249,Tarjeta de crédito,Tarjeta de crédito,Cobranza,Cobranza,alta,1,1
+Q0250,Tarjeta de crédito,Tarjeta de crédito,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0251,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0252,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0253,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0254,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0255,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0256,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0257,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0258,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0259,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0260,Cuenta corriente,Cuenta corriente,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0261,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0262,Depósito de bajo monto,Depósito de bajo monto,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0263,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0264,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0265,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0266,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0267,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0268,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0269,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0270,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0271,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0272,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0273,Depósito de bajo monto,Depósito de bajo monto,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0274,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0275,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0276,Crédito de consumo,Crédito de consumo,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0277,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0278,Depósito de bajo monto,Depósito de bajo monto,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0279,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0280,Crédito de consumo,Crédito de consumo,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0281,Tarjeta de crédito,Tarjeta de crédito,Indebida atención,Indebida atención,alta,1,1
+Q0282,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0283,Tarjeta de crédito,Tarjeta de crédito,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1
+Q0284,Cuenta de ahorros,Cuenta de ahorros,Fallas en canales digitales,Fallas en canales digitales,alta,1,1
+Q0285,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0286,Crédito de consumo,Crédito de consumo,Reporte a centrales de riesgo,Reporte a centrales de riesgo,alta,1,1
+Q0287,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0288,Tarjeta de crédito,Tarjeta de crédito,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0289,Cuenta de ahorros,Cuenta de ahorros,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0290,Cuenta corriente,Cuenta corriente,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0291,Tarjeta de crédito,Tarjeta de crédito,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0292,Crédito de consumo,Crédito de consumo,Revisión o liquidación del crédito,Revisión o liquidación del crédito,alta,1,1
+Q0293,Cuenta corriente,Cuenta corriente,Indebida atención,Indebida atención,alta,1,1
+Q0294,Cuenta corriente,Cuenta corriente,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0295,Crédito de consumo,Crédito de consumo,Cobranza,Cobranza,alta,1,1
+Q0296,Depósito de bajo monto,Depósito de bajo monto,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0297,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0298,Tarjeta de crédito,Tarjeta de crédito,Cobro de servicios o comisiones,Cobro de servicios o comisiones,alta,1,1
+Q0299,Cuenta de ahorros,Cuenta de ahorros,Transacción no reconocida,Transacción no reconocida,alta,1,1
+Q0300,Cuenta de ahorros,Cuenta de ahorros,Cobro por operación fallida en cajero,Cobro por operación fallida en cajero,alta,1,1

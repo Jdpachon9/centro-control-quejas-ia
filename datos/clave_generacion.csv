@@ -1,0 +1,301 @@
+﻿id,producto,motivo,reiterada,especial_proteccion,ruta,plazo_dias,area,segundo_tema,caso_dificil,estilo
+Q0001,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0002,Cuenta corriente,Fallas en canales digitales,Sí,No,Exprés,5,Canales,No,Sí,formal
+Q0003,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,informal
+Q0004,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0005,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0006,Tarjeta de crédito,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0007,Tarjeta de crédito,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0008,Cuenta corriente,Transacción no reconocida,Sí,No,Fraude,5,Fraude,No,No,informal
+Q0009,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0010,Cuenta corriente,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,informal
+Q0011,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0012,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0013,Tarjeta de crédito,Transacción no reconocida,No,Sí,Fraude,5,Fraude,No,No,formal
+Q0014,Cuenta de ahorros,Transacción no reconocida,Sí,No,Fraude,5,Fraude,No,No,molesto
+Q0015,Tarjeta de crédito,Fallas en canales digitales,No,No,Normal,15,Canales,Sí,No,informal
+Q0016,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0017,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0018,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0019,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,informal
+Q0020,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0021,Cuenta corriente,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0022,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0023,Cuenta corriente,Transacción no reconocida,Sí,No,Fraude,5,Fraude,No,No,molesto
+Q0024,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,molesto
+Q0025,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0026,Tarjeta de crédito,Revisión o liquidación del crédito,No,Sí,Exprés,5,Cartera,No,No,molesto
+Q0027,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,Sí,molesto
+Q0028,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,Sí,No,informal
+Q0029,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0030,Tarjeta de crédito,Cobranza,Sí,No,Exprés,5,Cartera,No,No,formal
+Q0031,Crédito de consumo,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,Sí,formal
+Q0032,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0033,Cuenta de ahorros,Fallas en canales digitales,No,No,Normal,15,Canales,No,Sí,formal
+Q0034,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0035,Cuenta de ahorros,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0036,Tarjeta de crédito,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0037,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0038,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,molesto
+Q0039,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,Sí,No,formal
+Q0040,Cuenta corriente,Transacción no reconocida,Sí,No,Fraude,5,Fraude,Sí,No,informal
+Q0041,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0042,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0043,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0044,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,molesto
+Q0045,Cuenta de ahorros,Transacción no reconocida,Sí,No,Fraude,5,Fraude,No,No,formal
+Q0046,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0047,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0048,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0049,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0050,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0051,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,Sí,informal
+Q0052,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,informal
+Q0053,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0054,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,Sí,formal
+Q0055,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,No,informal
+Q0056,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,informal
+Q0057,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0058,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0059,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0060,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0061,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0062,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0063,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0064,Tarjeta de crédito,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0065,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0066,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,Sí,formal
+Q0067,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,Sí,No,informal
+Q0068,Cuenta corriente,Indebida atención,No,Sí,Exprés,5,Servicio al cliente,No,No,formal
+Q0069,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,informal
+Q0070,Tarjeta de crédito,Cobranza,No,No,Normal,15,Cartera,No,No,formal
+Q0071,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,Sí,formal
+Q0072,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0073,Crédito de consumo,Revisión o liquidación del crédito,Sí,No,Exprés,5,Cartera,No,No,molesto
+Q0074,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0075,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,Sí,No,formal
+Q0076,Cuenta de ahorros,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0077,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0078,Tarjeta de crédito,Cobranza,No,No,Normal,15,Cartera,No,No,informal
+Q0079,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0080,Tarjeta de crédito,Cobranza,No,Sí,Exprés,5,Cartera,No,No,formal
+Q0081,Cuenta de ahorros,Fallas en canales digitales,No,Sí,Exprés,5,Canales,Sí,Sí,informal
+Q0082,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,Sí,No,formal
+Q0083,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0084,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0085,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0086,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0087,Tarjeta de crédito,Revisión o liquidación del crédito,No,Sí,Exprés,5,Cartera,Sí,No,formal
+Q0088,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0089,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,Sí,No,formal
+Q0090,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,Sí,molesto
+Q0091,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0092,Crédito de consumo,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0093,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0094,Cuenta corriente,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,molesto
+Q0095,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,Sí,Sí,informal
+Q0096,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0097,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0098,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0099,Crédito de consumo,Indebida atención,No,Sí,Exprés,5,Servicio al cliente,No,No,informal
+Q0100,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0101,Tarjeta de crédito,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0102,Depósito de bajo monto,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0103,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0104,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,informal
+Q0105,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0106,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0107,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,No,formal
+Q0108,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,Sí,No,informal
+Q0109,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0110,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,Sí,Sí,molesto
+Q0111,Crédito de consumo,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,Sí,formal
+Q0112,Tarjeta de crédito,Transacción no reconocida,No,Sí,Fraude,5,Fraude,No,No,formal
+Q0113,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,informal
+Q0114,Cuenta corriente,Transacción no reconocida,No,Sí,Fraude,5,Fraude,No,No,formal
+Q0115,Tarjeta de crédito,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0116,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0117,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,No,formal
+Q0118,Cuenta de ahorros,Transacción no reconocida,Sí,No,Fraude,5,Fraude,No,No,formal
+Q0119,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,molesto
+Q0120,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0121,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,formal
+Q0122,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0123,Cuenta corriente,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0124,Tarjeta de crédito,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,molesto
+Q0125,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,No,molesto
+Q0126,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,No,Sí,informal
+Q0127,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0128,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0129,Cuenta corriente,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0130,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,molesto
+Q0131,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0132,Tarjeta de crédito,Revisión o liquidación del crédito,Sí,No,Exprés,5,Cartera,Sí,No,formal
+Q0133,Tarjeta de crédito,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0134,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0135,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0136,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0137,Crédito de consumo,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0138,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,molesto
+Q0139,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0140,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0141,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0142,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0143,Crédito de consumo,Revisión o liquidación del crédito,Sí,No,Exprés,5,Cartera,No,No,formal
+Q0144,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,Sí,No,formal
+Q0145,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,Sí,No,informal
+Q0146,Crédito de consumo,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,molesto
+Q0147,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0148,Depósito de bajo monto,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0149,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,No,molesto
+Q0150,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0151,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0152,Tarjeta de crédito,Cobranza,Sí,No,Exprés,5,Cartera,No,Sí,formal
+Q0153,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0154,Cuenta corriente,Cobro por operación fallida en cajero,No,Sí,Exprés,5,Canales,No,No,formal
+Q0155,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0156,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0157,Tarjeta de crédito,Cobro de servicios o comisiones,Sí,No,Exprés,5,Productos y tarifas,No,No,formal
+Q0158,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0159,Tarjeta de crédito,Reporte a centrales de riesgo,Sí,No,Exprés,5,Cartera,No,Sí,formal
+Q0160,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0161,Tarjeta de crédito,Cobro de servicios o comisiones,Sí,No,Exprés,5,Productos y tarifas,No,No,formal
+Q0162,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,Sí,No,formal
+Q0163,Cuenta de ahorros,Fallas en canales digitales,No,No,Normal,15,Canales,Sí,No,formal
+Q0164,Tarjeta de crédito,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0165,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,molesto
+Q0166,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0167,Tarjeta de crédito,Cobro por operación fallida en cajero,Sí,No,Exprés,5,Canales,No,No,formal
+Q0168,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0169,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,Sí,informal
+Q0170,Cuenta corriente,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0171,Tarjeta de crédito,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,formal
+Q0172,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0173,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,No,Sí,formal
+Q0174,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0175,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,informal
+Q0176,Cuenta corriente,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,informal
+Q0177,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,molesto
+Q0178,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0179,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0180,Depósito de bajo monto,Indebida atención,No,No,Normal,15,Servicio al cliente,Sí,No,formal
+Q0181,Tarjeta de crédito,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0182,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0183,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0184,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0185,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,formal
+Q0186,Cuenta de ahorros,Transacción no reconocida,No,Sí,Fraude,5,Fraude,No,No,formal
+Q0187,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,molesto
+Q0188,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0189,Depósito de bajo monto,Indebida atención,Sí,Sí,Exprés,5,Servicio al cliente,No,No,molesto
+Q0190,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,informal
+Q0191,Depósito de bajo monto,Transacción no reconocida,Sí,Sí,Fraude,5,Fraude,No,No,informal
+Q0192,Tarjeta de crédito,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,molesto
+Q0193,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0194,Depósito de bajo monto,Transacción no reconocida,No,Sí,Fraude,5,Fraude,No,No,informal
+Q0195,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,informal
+Q0196,Cuenta corriente,Cobro de servicios o comisiones,No,Sí,Exprés,5,Productos y tarifas,No,No,formal
+Q0197,Crédito de consumo,Cobranza,Sí,No,Exprés,5,Cartera,No,No,informal
+Q0198,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0199,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0200,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,No,Sí,formal
+Q0201,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0202,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0203,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0204,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,molesto
+Q0205,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,Sí,No,formal
+Q0206,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,informal
+Q0207,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0208,Depósito de bajo monto,Transacción no reconocida,Sí,No,Fraude,5,Fraude,No,No,molesto
+Q0209,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,informal
+Q0210,Crédito de consumo,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0211,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0212,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0213,Tarjeta de crédito,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0214,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0215,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0216,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0217,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0218,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0219,Tarjeta de crédito,Revisión o liquidación del crédito,Sí,No,Exprés,5,Cartera,No,No,molesto
+Q0220,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0221,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0222,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0223,Crédito de consumo,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,informal
+Q0224,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0225,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0226,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0227,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0228,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0229,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0230,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0231,Crédito de consumo,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,Sí,informal
+Q0232,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0233,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0234,Tarjeta de crédito,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,Sí,No,informal
+Q0235,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0236,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0237,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,formal
+Q0238,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0239,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0240,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,No,informal
+Q0241,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0242,Tarjeta de crédito,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0243,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,No,Sí,informal
+Q0244,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0245,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0246,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,molesto
+Q0247,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0248,Tarjeta de crédito,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,molesto
+Q0249,Tarjeta de crédito,Cobranza,No,No,Normal,15,Cartera,No,No,formal
+Q0250,Tarjeta de crédito,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,Sí,formal
+Q0251,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,formal
+Q0252,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0253,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0254,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0255,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0256,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,molesto
+Q0257,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0258,Cuenta corriente,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0259,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0260,Cuenta corriente,Fallas en canales digitales,Sí,No,Exprés,5,Canales,No,Sí,formal
+Q0261,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,molesto
+Q0262,Depósito de bajo monto,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0263,Tarjeta de crédito,Cobro de servicios o comisiones,Sí,No,Exprés,5,Productos y tarifas,No,No,informal
+Q0264,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0265,Depósito de bajo monto,Transacción no reconocida,No,Sí,Fraude,5,Fraude,No,No,formal
+Q0266,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0267,Tarjeta de crédito,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0268,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0269,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0270,Tarjeta de crédito,Cobro de servicios o comisiones,Sí,No,Exprés,5,Productos y tarifas,No,Sí,molesto
+Q0271,Depósito de bajo monto,Transacción no reconocida,No,Sí,Fraude,5,Fraude,No,No,informal
+Q0272,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,Sí,formal
+Q0273,Depósito de bajo monto,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,molesto
+Q0274,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,Sí,Sí,formal
+Q0275,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0276,Crédito de consumo,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,informal
+Q0277,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,informal
+Q0278,Depósito de bajo monto,Fallas en canales digitales,No,No,Normal,15,Canales,Sí,No,informal
+Q0279,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0280,Crédito de consumo,Transacción no reconocida,No,No,Fraude,15,Fraude,No,Sí,formal
+Q0281,Tarjeta de crédito,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0282,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0283,Tarjeta de crédito,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,formal
+Q0284,Cuenta de ahorros,Fallas en canales digitales,No,No,Normal,15,Canales,No,No,formal
+Q0285,Cuenta de ahorros,Transacción no reconocida,Sí,Sí,Fraude,5,Fraude,No,No,formal
+Q0286,Crédito de consumo,Reporte a centrales de riesgo,No,No,Exprés,5,Cartera,No,No,formal
+Q0287,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,informal
+Q0288,Tarjeta de crédito,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0289,Cuenta de ahorros,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0290,Cuenta corriente,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0291,Tarjeta de crédito,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,informal
+Q0292,Crédito de consumo,Revisión o liquidación del crédito,No,No,Normal,15,Cartera,No,No,formal
+Q0293,Cuenta corriente,Indebida atención,No,No,Normal,15,Servicio al cliente,No,No,formal
+Q0294,Cuenta corriente,Cobro de servicios o comisiones,No,No,Normal,15,Productos y tarifas,No,No,formal
+Q0295,Crédito de consumo,Cobranza,No,No,Normal,15,Cartera,No,No,formal
+Q0296,Depósito de bajo monto,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,molesto
+Q0297,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,No,No,formal
+Q0298,Tarjeta de crédito,Cobro de servicios o comisiones,Sí,No,Exprés,5,Productos y tarifas,No,No,informal
+Q0299,Cuenta de ahorros,Transacción no reconocida,No,No,Fraude,15,Fraude,Sí,No,formal
+Q0300,Cuenta de ahorros,Cobro por operación fallida en cajero,No,No,Exprés,5,Canales,No,No,molesto
