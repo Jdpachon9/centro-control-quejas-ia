@@ -1,70 +1,71 @@
 # Cómo armar el tablero en Power BI
 
-El tablero responde cuatro preguntas en una sola página: qué genera más quejas, dónde se atasca el proceso, qué casos están por vencerse y qué tan bien clasifica el agente.
+El tablero responde en una sola página qué genera más quejas, dónde se atasca el proceso, qué casos están por vencerse y qué tan bien clasifica el agente. El archivo terminado es `centro_control_quejas.pbix`; esta guía sirve para rehacerlo o cambiarlo.
+
+Los nombres de menús van en español y, entre paréntesis, como aparecen si Power BI está en inglés.
 
 ## Lo que necesitas
 
-- **Power BI Desktop.** Es gratis y funciona en Windows. Se instala desde Microsoft Store buscando "Power BI Desktop". Si al abrirlo pide iniciar sesión, puedes cerrar esa ventana.
-- **Tres archivos de esta carpeta**, que crea el cuaderno del agente al ejecutarlo completo:
+- **Power BI Desktop.** Es gratis y funciona en Windows. Se instala desde Microsoft Store. Si al abrirlo pide iniciar sesión, puedes cerrar esa ventana.
+- **Tres archivos de esta carpeta**, que el cuaderno del agente crea al ejecutarse completo:
   - `quejas_tablero.csv`: una fila por queja, con su clasificación, fecha límite y estado.
   - `cola_diaria.csv`: cuántas quejas tenía abiertas cada área al final de cada día.
   - `evaluacion_agente.csv`: si el agente acertó o no en cada queja.
 
 ## 1. Cargar los datos
 
-1. *Inicio > Obtener datos > Texto o CSV* y elige `quejas_tablero.csv`.
-2. En la vista previa revisa que diga *65001: Unicode (UTF-8)* y *Delimitador: Coma*. Haz clic en **Cargar**.
+1. *Inicio > Obtener datos > Texto o CSV* (*Home > Get data > Text/CSV*) y elige `quejas_tablero.csv`.
+2. En la vista previa revisa que diga *65001: Unicode (UTF-8)* y *Delimitador: Coma*, y dale **Cargar** (**Load**).
 3. Repite con `cola_diaria.csv` y `evaluacion_agente.csv`.
-4. Abre la *Vista de tabla* (ícono de cuadrícula, a la izquierda) y revisa que las columnas `fecha_recibo`, `semana`, `fecha_limite`, `fecha_respuesta` y `fecha` tengan el ícono de calendario. Si alguna no lo tiene, selecciónala y cambia *Herramientas de columnas > Tipo de datos > Fecha*.
-5. En la *Vista de modelo* (tercer ícono) revisa que exista una línea entre `quejas_tablero[id]` y `evaluacion_agente[id]`. Si no aparece, arrastra `id` de una tabla a la otra.
+4. En la *Vista de tabla* (*Table view*) revisa que `fecha_recibo`, `semana`, `fecha_limite`, `fecha_respuesta` y `fecha` sean de tipo *Fecha* (*Date*).
+5. En la *Vista de modelo* (*Model view*) revisa que `quejas_tablero` y `evaluacion_agente` estén unidas por `id`. Si no, arrastra `id` de una tabla a la otra.
 
 ## 2. Crear las medidas
 
-Una medida es un cálculo que se actualiza con los filtros. Selecciona la tabla `quejas_tablero`, haz clic en *Nueva medida* y pega cada línea por separado:
+Una medida es un cálculo que se actualiza con los filtros. Para cada una: clic derecho en `quejas_tablero` > *Nueva medida* (*New measure*), pega la fórmula y presiona Enter.
+
+Crea cada medida con *Nueva medida*. Si pegas una fórmula en la barra de otra medida, la reemplazas.
 
 ```
 Quejas = COUNTROWS(quejas_tablero)
 Abiertas = SUM(quejas_tablero[abierta])
-Vencidas abiertas = CALCULATE([Quejas], quejas_tablero[estado] = "Abierta y vencida")
+Vencidas abiertas = CALCULATE([Quejas], quejas_tablero[estado] = "Abierta y vencida") + 0
 Por vencer = SUM(quejas_tablero[por_vencer])
 % a tiempo = DIVIDE(SUM(quejas_tablero[a_tiempo]), SUM(quejas_tablero[respondida]))
 Días promedio de respuesta = AVERAGE(quejas_tablero[dias_habiles_respuesta])
-% revisión completa = DIVIDE(CALCULATE([Quejas], quejas_tablero[nivel_revision] = "Revisión completa"), [Quejas])
+% revisión completa = DIVIDE(CALCULATE([Quejas], quejas_tablero[nivel_revision] = "Revisión completa") + 0, [Quejas])
 % acierto del agente = AVERAGE(evaluacion_agente[producto_y_motivo_correctos])
 ```
 
-- A las tres medidas que empiezan con `%`, dales formato de porcentaje: *Herramientas de medición > Formato > Porcentaje*.
-- Si Power BI marca error en las comas, tu equipo usa punto y coma: cambia cada `,` que separa datos dentro de los paréntesis por `;`.
+- El `+ 0` hace que la tarjeta muestre 0 en vez de quedar en blanco cuando no hay casos.
+- Las tres medidas que empiezan con `%` van con formato de porcentaje y un decimal (*Herramientas de medición > %*, *Measure tools > %*). `Días promedio de respuesta` va con un decimal.
+- Si Power BI marca error en las comas, cambia cada `,` dentro de los paréntesis por `;`.
 
 ## 3. Armar la página
 
-Ponle de título "Centro de control de quejas · Banco Ejemplo (datos simulados)".
+Tamaño de página: *Personalizado* (*Custom*), 1280 × 960. Título: "Centro de control de quejas · Banco Ejemplo (datos simulados)".
 
-**Arriba: cinco tarjetas.** Visual *Tarjeta*, una por medida: `Quejas`, `% a tiempo`, `Abiertas`, `Vencidas abiertas` y `Por vencer`.
+| Lugar | Visual | Cómo se arma |
+|---|---|---|
+| Arriba a la derecha | Dos segmentaciones (*Slicer*) | `canal` y `producto`, con estilo de lista desplegable (*Dropdown*) |
+| Franja bajo el título | Una tarjeta (*Card*) con 7 cifras | `Quejas`, `% a tiempo`, `Abiertas`, `Vencidas abiertas`, `Por vencer`, `% acierto del agente` y `% revisión completa` en la misma casilla |
+| Centro, izquierda | Barras agrupadas (*Clustered bar chart*) | Eje Y: `motivo`. Eje X: `Quejas`. Orden descendente y etiquetas de datos |
+| Centro, derecha | Líneas (*Line chart*) | De `cola_diaria`: eje X `fecha` (la fecha, no la jerarquía), eje Y `abiertas_al_cierre`, leyenda `area`. Fraude en rojo |
+| Abajo, izquierda | Matriz (*Matrix*) | Filas: `area`. Valores: `Quejas`, `% a tiempo`, `Días promedio de respuesta` y `Abiertas` |
+| Abajo, derecha | Tabla (*Table*) | `id`, `area`, `motivo`, `fecha_limite`, `dias_habiles_restantes` y `estado`, filtrada a "Abierta y vencida" y "Abierta por vencer" y ordenada por días restantes |
 
-**¿Qué genera más quejas?** Visual *Gráfico de barras agrupadas*.
-- Eje Y: `motivo`. Eje X: `Quejas`.
-- En los tres puntos del visual, *Ordenar eje > Quejas* y orden descendente.
+En la tabla:
 
-**¿Dónde se atasca el proceso?** Dos visuales.
-- *Gráfico de líneas* con datos de `cola_diaria`. Eje X: `fecha`. Eje Y: `abiertas_al_cierre` (suma). Leyenda: `area`. En *Formato > Líneas*, pon Fraude en un color fuerte y las demás áreas en grises.
-- *Matriz*. Filas: `area`. Valores: `Quejas`, `% a tiempo`, `Días promedio de respuesta` y `Abiertas`.
+- `fecha_limite` va como fecha y no como jerarquía.
+- `dias_habiles_restantes` va sin resumir (*Don't summarize*).
+- La fecha lleva el formato `dd/mm/yyyy`, para que no se lea al estilo de Estados Unidos.
 
-**¿Qué está por vencerse?** Visual *Tabla*.
-- Columnas: `id`, `area`, `motivo`, `fecha_limite`, `dias_habiles_restantes` y `estado`.
-- En el panel *Filtros*, en *Filtros en este objeto visual*, arrastra `estado` y marca solo "Abierta y vencida" y "Abierta por vencer".
-- Ordena por `dias_habiles_restantes`, de menor a mayor: arriba quedan las más atrasadas.
-
-**¿Qué tan bien clasifica el agente?**
-- *Tarjeta* con `% acierto del agente` y otra con `% revisión completa`.
-- *Gráfico de barras agrupadas*. Eje Y: `confianza` de la tabla `evaluacion_agente`. Eje X: la medida `% acierto del agente`. Muestra si la confianza que declara el agente sirve para decidir qué revisar: las quejas de confianza alta deberían tener más acierto que las de confianza baja.
-
-**Segmentadores:** visual *Segmentación de datos* con `mes`, `canal` y `producto`. Filtran todo menos el gráfico de líneas, que viene de otra tabla.
+La guía original traía un gráfico de acierto según la confianza del agente. Se quitó porque el modelo dijo «alta» en las 300 quejas, así que mostraba una sola barra (hallazgo 2 del README).
 
 ## 4. Guardar y exportar
 
-1. *Archivo > Guardar como*: `tablero/centro_control_quejas.pbix`.
-2. *Archivo > Exportar > Exportar a PDF*: `tablero/centro_control_quejas.pdf`.
-3. Toma una captura de la página con `Windows + Shift + S` y guárdala como `tablero/tablero.png`. Esa imagen va en el README del repositorio.
+1. *Archivo > Guardar como* (*File > Save as*): `tablero/centro_control_quejas.pbix`.
+2. *Archivo > Exportar > Exportar a PDF* (*File > Export > Export to PDF*). Power BI no pregunta dónde guardarlo: lo abre y lo deja en `%TEMP%\Power BI Desktop\print-job-…`. Cópialo a `tablero/centro_control_quejas.pdf`.
+3. La imagen `tablero.png` del README sale de ese PDF.
 
-Para publicar el tablero en la web de Power BI se necesita una licencia paga. Para el portafolio basta con el archivo `.pbix`, el PDF y la captura.
+Para publicar el tablero en la web de Power BI se necesita una licencia paga. Para el portafolio basta con el `.pbix`, el PDF y la imagen.
